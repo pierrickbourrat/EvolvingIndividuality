@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John Smith
+title: Pierrick Bourrat
 
 # Role/position
 role: Machine Learning Manager
