@@ -10,22 +10,22 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      title: Evolutionary Individuality 2024
-      text: ""
-      details: "Dec 2 - 4, 2024"
+      title: Evolving Individuality 2024
+      text: "**BUILD THE FUTURE TOGETHER WITH AI**"
+      details: "May 16, 2024. \n\nEasily create your conference website with [Hugo Blox](https://hugoblox.com/templates/)"
       primary_action:
-        text: Register
-        url: mailto: graham.thomas@mq.edu.au
+        text: Get Tickets
+        url: https://www.eventbrite.com/
         icon: ticket
       items:
         - name: "Speakers"
-          description: "19"
+          description: "300+"
         - name: "Attendees"
-          description: "25"
+          description: "4,000+"
         - name: "Venue"
-          description: "Macquarie University"
+          description: "Moscone Center"
         - name: "Location"
-          description: "Sydney"
+          description: "San Francisco"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -41,10 +41,10 @@ sections:
 #            brightness: 1.0
   - block: countdown
     content:
-      title: ""
-      text: ""
-      text_after: ""
-      date: '2024-02-12 09:00:00'
+      title: "Hurry, Limited Availability"
+      text: "EARLY BIRD PRICING ENDS IN"
+      text_after: "SAVE UP TO $1,000!"
+      date: '2000-01-01 00:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
