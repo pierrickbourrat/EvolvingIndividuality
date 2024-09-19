@@ -44,7 +44,7 @@ sections:
       title: ""
       text: ""
       text_after: ""
-      date: '2024-12-02 09:00:00'
+      date: '2024-12-02'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
