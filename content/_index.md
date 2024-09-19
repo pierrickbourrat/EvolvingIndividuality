@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      title: Evolving Individuality 2024
+      title: AI SUMMIT 2024
       text: "**BUILD THE FUTURE TOGETHER WITH AI**"
       details: "May 16, 2024. \n\nEasily create your conference website with [Hugo Blox](https://hugoblox.com/templates/)"
       primary_action:
