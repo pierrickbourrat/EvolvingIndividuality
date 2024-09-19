@@ -41,10 +41,10 @@ sections:
 #            brightness: 1.0
   - block: countdown
     content:
-      title: "Hurry, Limited Availability"
-      text: "EARLY BIRD PRICING ENDS IN"
-      text_after: "SAVE UP TO $1,000!"
-      date: '2000-01-01 00:00:00'
+      title: ""
+      text: ""
+      text_after: ""
+      date: '2024-12-02 09:00:00'
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-500"
