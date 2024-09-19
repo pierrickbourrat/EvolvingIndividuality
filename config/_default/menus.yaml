@@ -13,8 +13,8 @@ main:
   - name: Speakers
     url: /#speakers
     weight: 30
-  - name: Program
-    url: /#program
+  - name: Agenda
+    url: /#agenda
 
 footer:
   - identifier: home
