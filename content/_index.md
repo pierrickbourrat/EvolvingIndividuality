@@ -12,10 +12,10 @@ sections:
     content:
       title: Evolving Individuality 2024
       text: ""
-      details: "Dec 2 - 4 2024"
+      details: "Dec 2 - 4, 2024"
       primary_action:
-        text: Get Tickets
-        url: https://www.eventbrite.com/
+        text: Register
+        mailto: graham.thomas@mq.edu.au
         icon: ticket
       items:
         - name: "Speakers"
