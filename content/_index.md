@@ -19,13 +19,13 @@ sections:
         icon: ticket
       items:
         - name: "Speakers"
-          description: "300+"
+          description: "22"
         - name: "Attendees"
-          description: "4,000+"
+          description: "25"
         - name: "Venue"
-          description: "Moscone Center"
+          description: "Macquarie University"
         - name: "Location"
-          description: "San Francisco"
+          description: "Sydney"
     design:
       spacing:
         padding: [0, 0, 0, 0]
