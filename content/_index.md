@@ -14,7 +14,7 @@ sections:
       text: ""
       details: "Dec 2 - 4, 2024)"
       primary_action:
-        text: "Email to Register"
+        text: Email to Register
         url: mailto: graham.thomas@mq.edu.au
         icon: ticket
       items:
