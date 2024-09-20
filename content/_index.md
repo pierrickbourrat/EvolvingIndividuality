@@ -11,7 +11,8 @@ sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
-      text: ""
+      text:
+      ![Centered Image](/assets/media/logo.png)
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
@@ -87,8 +88,8 @@ sections:
         {{< table path="schedule.csv" header="true" >}}
   - block: logos
     content:
-      title: "Sponsors Making This Possible"
-      text: "Thanks to the following sponsors for making this incredible event possible!"
+      title: "Sponsors"
+      text: "Thanks to the following for making this event possible"
       # Image path relative to assets/media/ folder
       logo_folder: 'sponsors/'
     design:
