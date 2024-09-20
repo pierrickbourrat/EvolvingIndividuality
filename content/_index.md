@@ -73,7 +73,7 @@ sections:
       show_social: true
       show_interests: false
   - block: markdown
-    id: Program
+    id: program
     content:
       title: Program
       text: |
