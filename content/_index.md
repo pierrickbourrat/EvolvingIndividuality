@@ -73,9 +73,9 @@ sections:
       show_social: true
       show_interests: false
   - block: markdown
-    id: agenda
+    id: Program
     content:
-      title: Agenda
+      title: Program
       text: |
         **DAY 1**
         {style="padding-top: 2rem"}
