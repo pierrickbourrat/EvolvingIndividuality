@@ -15,7 +15,7 @@ sections:
       <div style="text-align: center;">
         <img src="/path/to/your/image.png" alt="Centered Image" style="width: 300px;">
       </div>
-      details: "Dec 2 - 4, 2024"
+    details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
         mailto: graham.thomas@mq.edu.au
