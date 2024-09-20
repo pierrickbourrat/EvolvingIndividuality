@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.png"
+      filename: ""
     button:
       enable: true
       text: "Get Tickets"
@@ -49,8 +49,8 @@ footer:
   blox: "sitemap"
   content:
     logo:
-      text: "AI SUMMIT 2024"
-    tagline: "BUILD THE FUTURE TOGETHER WITH AI"
+      text: "Evolving Individuality 2024"
+    tagline: ""
   design:
     columns: 4
   copyright:
