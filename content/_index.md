@@ -13,7 +13,6 @@ sections:
       title: Evolving Individuality 2024
       text: ""
       details: "Dec 2 - 4, 2024"
-      image: logo.png
       primary_action:
         text: Register
         mailto: graham.thomas@mq.edu.au
@@ -35,9 +34,9 @@ sections:
       css_class: "bg-gradient-to-r from-rose-100 to-teal-100"
 #      background:
 #        color: ""
-#        image:
+#        image: logo.png
 #          # Add your image background to `assets/media/`.
-#          filename: ""
+#          filename: "logo.png"
 #          filters:
 #            brightness: 1.0
   - block: countdown
