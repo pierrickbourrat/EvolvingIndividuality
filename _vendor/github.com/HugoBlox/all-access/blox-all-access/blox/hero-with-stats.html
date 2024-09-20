@@ -17,9 +17,9 @@
     {{end}}
     {{ with $block.content.text }}
     <div class="mt-6 space-y-6 font-display text-2xl tracking-tight text-primary-900">
-      {{ . | replaceRE "(<img src=\"[^\"]+\")" "$1 style=\"width:50px; height:auto;\"" | $page.RenderString | emojify }}
+      {{ . | $page.RenderString | emojify }}
     </div>
-  {{ end }}  
+    {{end}}
       {{ with $block.content.details }}
       <div class="mt-6 space-y-6 font-display text-2xl tracking-tight text-black">
         {{ . | $page.RenderString | emojify }}
