@@ -6,7 +6,6 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
