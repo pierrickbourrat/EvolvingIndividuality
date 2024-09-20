@@ -6,7 +6,7 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 {{ $mydate := $block.content.date | default "2000-01-01" }}
-{{ $formattedDate := dateFormat "2006-01-02T15:04" $mydate }}
+{{ $formattedDate := dateFormat "2006-01-02T15:04:05.000Z" $mydate }}
 
 <div class="min-w-screen flex items-center justify-center px-5 py-5" x-data="countdownTimer()" x-init="start()" id="countdown" data-countdown-date="{{$formattedDate}}">
   <div class="text-primary-100">
@@ -22,17 +22,6 @@
         <div class="font-mono leading-none" x-text="days">00</div>
         <div class="font-mono uppercase text-sm leading-none">{{ T "days" | default "Days" }}</div>
       </div>
-      <div class="w-24 mx-1 p-2 bg-white text-primary-500 rounded-lg">
-        <div class="font-mono leading-none" x-text="hours">00</div>
-        <div class="font-mono uppercase text-sm leading-none">{{ T "hours" | default "Hours" }}</div>
-      </div>
-      <div class="w-24 mx-1 p-2 bg-white text-primary-500 rounded-lg">
-        <div class="font-mono leading-none" x-text="minutes">00</div>
-        <div class="font-mono uppercase text-sm leading-none">{{ T "minutes" | default "Minutes" }}</div>
-      </div>
-      <div class="w-24 mx-1 p-2 bg-white text-primary-500 rounded-lg">
-        <div class="font-mono leading-none" x-text="seconds">00</div>
-        <div class="font-mono uppercase text-sm leading-none">{{ T "seconds" | default "Seconds" }}</div>
       </div>
     </div>
     {{ with $block.content.text_after }}
