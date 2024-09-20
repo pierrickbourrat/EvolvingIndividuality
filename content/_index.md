@@ -12,7 +12,7 @@ sections:
     content:
       title: Evolving Individuality 2024
       text: |
-        ![Hero Image](/assets/logo.png)
+        ![Logo](/assets/media/logo.png)
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
