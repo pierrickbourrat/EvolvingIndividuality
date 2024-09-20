@@ -10,9 +10,9 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      image: HERO-Macquaire-471533259.jpg
       title: Evolving Individuality 2024
-      text: ""
+      text: |
+        ![Logo](city-daniel-abadia.jpg)
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
@@ -89,7 +89,7 @@ sections:
   - block: logos
     content:
       title: "Sponsors"
-      text: "Thanks to the following for making this event possible"
+      text: "Thanks to the following for making this incredible event possible"
       # Image path relative to assets/media/ folder
       logo_folder: 'sponsors/'
     design:
