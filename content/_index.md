@@ -15,7 +15,7 @@ sections:
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
-        mailto: graham.thomas@mq.edu.au
+        url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
         icon: ticket
       items:
         - name: "Speakers"
