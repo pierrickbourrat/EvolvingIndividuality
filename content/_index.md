@@ -6,15 +6,13 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
+
+sections:
   - block: hero-with-stats
     content:
+      image: HERO-Macquaire-471533259.jpg
       title: Evolving Individuality 2024
       text: ""
-      image:
-        src: "logo.png"
-        alt: "Evolving Individuality Logo"
-        width: "300px"
-        height: "auto"
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
