@@ -12,7 +12,7 @@ sections:
     content:
       title: Evolving Individuality 2024
       text: |
-        ![Logo](logo2.png)
+        <img src="logo2.png" alt="Logo" style="width:100px; height:auto;">
       image_width: "50px"
       details: "Dec 2 - 4, 2024"
       primary_action:
