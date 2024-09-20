@@ -13,8 +13,8 @@ main:
   - name: Speakers
     url: /#speakers
     weight: 30
-  - name: Program
-    url: /#program
+  - name: Agenda
+    url: /#agenda
 
 footer:
   - identifier: home
@@ -24,10 +24,21 @@ footer:
     name: Home
     url: /
     weight: 1
-  - identifier: register
-    name: Register
+  - identifier: tickets
+    name: Tickets
     weight: 2
-  - parent: register
-    name: Register
-    url: mailto:graham.thomas@mq.edu.au
+  - parent: tickets
+    name: Get Tickets
+    url: https://www.eventbrite.com/
     weight: 3
+  - identifier: legal
+    name: Legal
+    weight: 3
+  - parent: legal
+    name: Privacy
+    url: /privacy
+    weight: 1
+  - parent: legal
+    name: Terms
+    url: /terms
+    weight: 2
