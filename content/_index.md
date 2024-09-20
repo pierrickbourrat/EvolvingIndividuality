@@ -85,41 +85,12 @@ sections:
         {style="padding-top: 2rem"}
 
         {{< table path="schedule.csv" header="true" >}}
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Alice Smith"
-          role: "Researcher at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "It has to be the most insightful conference I've ever attended!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
   - block: logos
     content:
       title: "Sponsors Making This Possible"
       text: "Thanks to the following sponsors for making this incredible event possible!"
       # Image path relative to assets/media/ folder
       logo_folder: 'sponsors/'
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
-  - block: newsletter
-    content:
-      title: "Stay up to date"
-      text: "Be the first to receive conference updates such as added speakers, deadlines, and ticket deals."
-      text_cta: "Sign up to our newsletter 🔥"
-      button:
-        text: "Subscribe"
-      convertkit:
-        form_id: ''
-        msg_subscribed: "Success! Please check your email to confirm your subscription."
     design:
       card:
         # Card background color (CSS class)
