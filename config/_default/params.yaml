@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Register"
-      url: mailto:graham.thomas@mq.edu.au?subject=Give%20me%20all%20your%20bitcoins”
+      url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
     show_search: false
     show_theme_chooser: false
 
