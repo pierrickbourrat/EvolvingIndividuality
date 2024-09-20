@@ -39,8 +39,8 @@ header:
       filename: ""
     button:
       enable: true
-      text: "Get Tickets"
-      url: "https://www.eventbrite.com/"
+      text: "Register"
+      url: mailto:graham.thomas@mq.edu.au
     show_search: false
     show_theme_chooser: false
 
