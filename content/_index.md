@@ -12,7 +12,7 @@ sections:
     content:
       title: Evolving Individuality 2024
       text: |
-        ![Logo]({{ "/assets/media/city-daniel-abadia.jpg" | relURL }})
+        ![Logo](city-daniel-abadia.jpg)
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
