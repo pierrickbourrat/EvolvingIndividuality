@@ -13,6 +13,7 @@ sections:
       title: Evolving Individuality 2024
       text: |
         ![Logo](logo2.png)
+      image_width: "50px"
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
