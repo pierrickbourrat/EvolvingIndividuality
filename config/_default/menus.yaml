@@ -29,5 +29,5 @@ footer:
     weight: 2
   - parent: register
     name: Register
-    url: mailto:graham.thomas@mq.edu.au
+    url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
     weight: 3
