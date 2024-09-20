@@ -7,12 +7,15 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
-      text: |
-        ![Logo](logo.png)
+      text: ""
+      image:
+        src: "logo.png"
+        alt: "Evolving Individuality Logo"
+        width: "300px"
+        height: "auto"
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
