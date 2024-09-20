@@ -11,9 +11,7 @@ sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
-      text: |
-        <img src="/HERO-Macquaire-471533259.jpg" alt="Logo" style="width:100px; height:auto;">
-      image_width: "50px"
+      text: ""
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
