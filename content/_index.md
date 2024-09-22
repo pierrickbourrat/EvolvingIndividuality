@@ -8,7 +8,6 @@ design:
   spacing: "6rem"
 
 sections:
-sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
@@ -31,14 +30,15 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      background:
-        image: "bkg.png"  # Add your background image
-        size: "cover"
-        position: "center"
-        repeat: "no-repeat"
-        filters:
-          brightness: 0.8
-      css_class: "text-left"
+      # For full-screen, add `min-h-screen` below
+      css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
+#      background:
+#        color: ""
+#        image: logo.png
+#          # Add your image background to `assets/media/`.
+#          filename: "logo.png"
+#          filters:
+#            brightness: 1.0
   - block: countdown
     content:
       title: ""
