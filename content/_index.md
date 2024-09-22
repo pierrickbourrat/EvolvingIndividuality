@@ -8,6 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
+sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
@@ -30,15 +31,14 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
-#      background:
-#        color: ""
-#        image: logo.png
-#          # Add your image background to `assets/media/`.
-#          filename: "logo.png"
-#          filters:
-#            brightness: 1.0
+      background:
+        image: "bkg.png"  # Add your background image
+        size: "cover"
+        position: "center"
+        repeat: "no-repeat"
+        filters:
+          brightness: 0.8
+      css_class: "text-left"
   - block: countdown
     content:
       title: ""
@@ -55,8 +55,8 @@ sections:
     id: about
     content:
       items:
-        - title: THE YEAR’S CAN’T-MISS EVENT FOR AI COLLABORATION
-          text: AI Summit is coming home to San Francisco. Join us at AI Summit 2024 to explore all the cutting-edge innovation the data cloud has to offer.
+        - title: Evolving Individuality 2024
+          text: A workshop to discuss implications of understanding individuality for evolutionary biology and cognition.
           # Upload image to `assets/media/` and reference the filename here
           image: Macquarie Photo.jpg
     design:
