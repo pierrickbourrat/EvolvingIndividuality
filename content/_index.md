@@ -36,7 +36,7 @@ sections:
         color: ""
         image: bkg.png
           # Add your image background to `assets/media/`.
-          filename: "bkg.png"
+          filename: "assets/media/bkg.png"
           filters:
             brightness: 1.0
   - block: countdown
