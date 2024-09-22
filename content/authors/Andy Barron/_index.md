@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Andy Barron
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Peter Conlin
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu

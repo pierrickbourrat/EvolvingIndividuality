@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Corina Tarnita
+
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
