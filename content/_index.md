@@ -32,13 +32,13 @@ sections:
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
-#      background:
-#        color: ""
-#        image: logo.png
-#          # Add your image background to `assets/media/`.
-#          filename: "logo.png"
-#          filters:
-#            brightness: 1.0
+      background:
+        color: ""
+        image: bkg.png
+          # Add your image background to `assets/media/`.
+          filename: "bkg.png"
+          filters:
+            brightness: 1.0
   - block: countdown
     content:
       title: ""
@@ -70,9 +70,8 @@ sections:
       user_groups: ['Speakers']
     design:
       show_role: true
-      show_social: true
+      show_social: false
       show_interests: false
-      show_image: true
   - block: markdown
     id: program
     content:
@@ -89,7 +88,7 @@ sections:
   - block: logos
     content:
       title: "Sponsors"
-      text: "Thanks to the following for making this incredible event possible"
+      text: "Thanks to the following for making this event possible"
       # Image path relative to assets/media/ folder
       logo_folder: 'sponsors/'
     design:
