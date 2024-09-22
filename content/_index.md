@@ -31,7 +31,7 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "bg-gradient-to-r from-darkslateblue-100 to-teal-100 text-left"
+      css_class: "bg-gradient-to-r from-green-100 to-teal-100 text-left"
 #      background:
  #       color: ""
 #        image: bkg.png
