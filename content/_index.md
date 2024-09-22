@@ -56,7 +56,7 @@ sections:
     content:
       items:
         - title: Evolving Individuality 2024
-          text: A workshop to discuss implications of understanding individuality for evolutionary biology and cognition.
+          text: A workshop to progress understanding of individuality and its implications for evolutionary biology and cognition.
           # Upload image to `assets/media/` and reference the filename here
           image: Macquarie Photo.jpg
     design:
@@ -72,6 +72,7 @@ sections:
       show_role: true
       show_social: true
       show_interests: false
+      show_image: true
   - block: markdown
     id: program
     content:
