@@ -31,14 +31,14 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
-#      background:
- #       color: ""
-#        image: bkg.png
-#          # Add your image background to `assets/media/`.
-#          filename: "assets/media/bkg.png"
-#          filters:
-#            brightness: 1.0
+#      css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
+      background:
+        color: ""
+        image: bkg.png
+          # Add your image background to `assets/media/`.
+          filename: "assets/media/bkg.png"
+          filters:
+            brightness: 1.0
   - block: countdown
     content:
       title: ""
