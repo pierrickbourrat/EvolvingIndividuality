@@ -47,7 +47,7 @@ sections:
       date: '2024-12-02'
     design:
       # Section background color (CSS class)
-      css_class: "bg-primary-300"
+      css_class: "bg-success-300"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
