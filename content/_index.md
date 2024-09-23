@@ -18,14 +18,14 @@ sections:
         url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
         icon: ticket
       items:
-        - name: "Speakers"
-          description: "22"
-        - name: "Attendees"
-          description: "25"
-        - name: "Venue"
-          description: "Macquarie University"
-        - name: "Location"
-          description: "Sydney"
+#        - name: "Speakers"
+#          description: "22"
+#        - name: "Attendees"
+#          description: "25"
+#        - name: "Venue"
+#          description: "Macquarie University"
+#        - name: "Location"
+#          description: "Sydney"
     design:
       spacing:
         padding: [0, 0, 0, 0]
