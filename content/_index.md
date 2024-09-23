@@ -56,11 +56,9 @@ sections:
     content:
       items:
         - title: Evolving Individuality 2024
-          text: A workshop to progress understanding of individuality and its implications for evolutionary biology and cognition.
-
-          MGSM Hotel
-          99 Talavera Rd, 
-          Macquarie Park NSW 2113
+          text: MGSM Hotel. 
+          Address: 99 Talavera Rd, Macquarie Park NSW 2113
+          
           # Upload image to `assets/media/` and reference the filename here
           image: Macquarie Photo.jpg
     design:
