@@ -28,8 +28,8 @@ sections:
 #          description: "Sydney"
     design:
       spacing:
-        padding: [20, 0, 20, 0]
-        margin: [0, 0, 0, 0]
+        padding: [0, 0, 0, 0]
+        margin: [20, 0, 20, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
 #      background:
