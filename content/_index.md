@@ -11,7 +11,9 @@ sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
-      text: "assets/media/logo2.png"
+      text: ""
+      image: 
+        filename: assets/media/logo2.png
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
