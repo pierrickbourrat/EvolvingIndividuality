@@ -11,7 +11,7 @@ sections:
   - block: hero-with-stats
     content:
       title: Evolving Individuality 2024
-      text: ![My Image](assets/media/logo2.png)
+      text: ![My Image](logo2.png)
       image: 
         filename: logo2.png
       details: "Dec 2 - 4, 2024"
