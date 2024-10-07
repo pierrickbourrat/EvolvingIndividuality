@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero-with-stats
     content:
-      text: "![My Image](logo3.png)"
+      text: "![Logo](logo3.png)"
       details: "Dec 2 - 4, 2024"
       primary_action:
         text: Register
@@ -28,7 +28,7 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-        margin: [20, 0, 0, 0]
+        margin: [20, 0, 20, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-left"
 #      background:
