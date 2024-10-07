@@ -36,7 +36,7 @@
       {{ end }}
       {{ with $link }}
       <a
-        class="inline-flex justify-left rounded-2xl bg-primary-600 p-4 text-base font-semibold text-white hover:bg-primary-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 active:text-white/70 mt-10 w-full" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+        class="inline-flex justify-left rounded-2xl bg-primary-600 p-4 text-base font-semibold text-white hover:bg-primary-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 active:text-white/70 mt-10 w-16" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
         <div>
         {{ $block.content.primary_action.text | markdownify | emojify }}
         {{ with $block.content.primary_action.icon }}
