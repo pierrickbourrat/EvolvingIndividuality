@@ -28,7 +28,7 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+        margin: [0, 0, 8, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "bg-gradient-to-r from-rose-100 to-teal-100 text-center"
 #      background:
