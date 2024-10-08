@@ -5,6 +5,7 @@
 
 # Appearance
 appearance:
+  i_am_a_sponsor: true
   mode: light
   color: blue
 
