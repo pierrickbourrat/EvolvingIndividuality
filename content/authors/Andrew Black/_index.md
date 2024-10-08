@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Andrew Black
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Pierrick 
-last_name: Bourrat
+first_name: Andrew 
+last_name: Black
 
 # Status emoji
 status:
