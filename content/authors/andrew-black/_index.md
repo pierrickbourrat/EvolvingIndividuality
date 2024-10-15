@@ -7,7 +7,7 @@ title: Andrew Black
 
 # Organizations/Affiliations
 organizations:
-  - name: Jagiellonian University
+  - name: University of Adelaide
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

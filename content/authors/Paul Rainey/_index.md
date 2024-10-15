@@ -1,31 +1,22 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Andy Baron
 
-# Name pronunciation (optional)
-name_pronunciation: 
+# Role/position
+#role: Machine Learning Manager
 
-# Full name (for SEO)
-first_name: Pierrick 
-last_name: Bourrat
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-#role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
   - name: Macquarie University
-    url: https://researchers.mq.edu.au/en/persons/pierrick-bourrat
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is based around stochastic modelling, mathematical epidemiology, evolution, probabilistic learning and Bayesian inference and Data Science.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,12 +26,6 @@ bio: My research is based around stochastic modelling, mathematical epidemiology
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Author's website URL
-#website: ""
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
@@ -49,4 +34,6 @@ highlight_name: true
 #  - Committee
 ---
 
-Test
+John Smith is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
