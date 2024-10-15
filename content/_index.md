@@ -23,7 +23,7 @@ sections:
   - block: hero-with-stats
     content:
       text: "![Logo](logo3.png)"
-      details: "Dec 2 - 4, 2024"
+      text: "Dec 2 - 4, 2024"
       details: "MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113"
       primary_action:
         text: Register
