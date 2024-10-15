@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-    - block: countdown
+  - block: countdown
     content:
       title: ""
       text: ""
@@ -19,19 +19,7 @@ sections:
       css_class: "bg-primary-500"
       # Reduce spacing
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
-  - block: cta-image-paragraph
-    id: about
-    content:
-      items:
-        - title: Evolving Individuality 2024
-          text: MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113
-          
-          # Upload image to `assets/media/` and reference the filename here
-          image: executive conference centre.jpg
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+        padding: ["1rem", 0, "1rem", 0]  
   - block: hero-with-stats
     content:
       text: "![Logo](logo3.png)"
@@ -62,7 +50,18 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-
+  - block: cta-image-paragraph
+    id: about
+    content:
+      items:
+        - title: Evolving Individuality 2024
+          text: MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113
+          
+          # Upload image to `assets/media/` and reference the filename here
+          image: executive conference centre.jpg
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: people
     id: speakers
     content:
