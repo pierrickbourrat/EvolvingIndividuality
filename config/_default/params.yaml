@@ -37,7 +37,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "assets/media/logo2.png"
+      filename: ""
     button:
       enable: true
       text: "Register"
