@@ -21,17 +21,15 @@
     {{ end }}
     
     <div class="flex justify-center">
-      <div class="mt-20 grid grid-cols-2 gap-x-16 gap-y-12 place-items-center">
+      <div class="mt-20 flex justify-center items-center space-x-8">
         {{ $images := resources.Match (printf "media/%s/*.{svg,png}" $logo_folder) }}
         {{ range $images }}
-        {{ $image := . }}
-        {{- $isSVG := eq $image.MediaType.SubType "svg" -}}
-        {{ if not $isSVG }}
-        {{ $image = $image.Fit "240x240 webp drawing" }}
-        {{ end }}
-        <div class="flex items-center justify-center">
-          <img data-nimg="1" decoding="async" loading="lazy" style="color:transparent" src="{{$image.RelPermalink}}" alt="logo" {{if not $isSVG}}width="{{$image.Width}}" height="{{$image.Height}}"{{end}}>
-        </div>
+          {{ $image := . }}
+          {{- $isSVG := eq $image.MediaType.SubType "svg" -}}
+          {{ if not $isSVG }}
+            {{ $image = $image.Fit "240x240 webp drawing" }}
+          {{ end }}
+          <img data-nimg="1" decoding="async" loading="lazy" style="color:transparent" src="{{ $image.RelPermalink }}" alt="logo" {{ if not $isSVG }}width="{{ $image.Width }}" height="{{ $image.Height }}"{{ end }}>
         {{ end }}
       </div>
     </div>
