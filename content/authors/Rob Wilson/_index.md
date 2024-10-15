@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andy Baron
+title: Rob Wilson
 
 # Role/position
 #role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: University of Western Australia
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

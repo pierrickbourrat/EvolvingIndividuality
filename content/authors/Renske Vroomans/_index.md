@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andy Baron
+title: Renske Vroomans
 
 # Role/position
 #role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: University of Cambridge
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

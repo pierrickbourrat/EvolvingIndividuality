@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andy Baron
+title: Sylvain Charlat
 
 # Role/position
 #role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: CNRS, University Lyon
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

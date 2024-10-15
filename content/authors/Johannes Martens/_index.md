@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andy Baron
+title: Johannes Martens
 
 # Role/position
 #role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Sorbonne Université
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

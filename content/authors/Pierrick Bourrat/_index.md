@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andy Baron
+title: Pierrick Bourrat
 
 # Role/position
 #role: Machine Learning Manager

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andy Baron
+title: Elizabeth Ostrowski
 
 # Role/position
 #role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: University of Auckland
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
