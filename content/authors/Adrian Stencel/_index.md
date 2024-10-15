@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andrew Black
+title: Adrian Stencel
 
 # Role/position
 #role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Adelaide
+  - name: Jagiellonian University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
