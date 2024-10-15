@@ -9,22 +9,26 @@
 <div class="relative py-8 sm:pb-8 sm:pt-24">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative">
     <div class="mx-auto max-w-2xl lg:max-w-4xl lg:px-12">
-    {{ with $block.content.title }}
-      <h1
-        class="font-display text-5xl font-bold tracking-tighter text-primary-600 sm:text-7xl">
-        {{ . | markdownify }}
-      </h1>
-    {{end}}
-    {{ with $block.content.text }}
-    <div class="mt-6 space-y-6 font-display text-2xl tracking-tight text-primary-900">
-      {{ . | $page.RenderString | emojify }}
-    </div>
-    {{end}}
+      {{ with $block.content.title }}
+        <h1 class="font-display text-5xl font-bold tracking-tighter text-primary-600 sm:text-7xl">
+          {{ . | markdownify }}
+        </h1>
+      {{ end }}
+      {{ with $block.content.text }}
+        <div class="mt-6 space-y-6 font-display text-2xl tracking-tight text-primary-900">
+          {{ . | $page.RenderString | emojify }}
+        </div>
+      {{ end }}
       {{ with $block.content.details }}
-      <div class="mt-6 space-y-6 font-display font-bold text-2xl tracking-tight text-black text-center">
-        {{ . | $page.RenderString | emojify }}
-      </div>
-      {{end}}
+        <div class="mt-6 space-y-6 font-display font-bold text-2xl tracking-tight text-black text-center">
+          {{ . | $page.RenderString | emojify }}
+        </div>
+      {{ end }}
+      {{ with $block.content.additional_text }}
+        <div class="mt-2 space-y-6 font-display text-xl tracking-tight text-black text-center">
+          {{ . | $page.RenderString | emojify }}
+        </div>
+      {{ end }}
 
       {{ $link := $block.content.primary_action.url }}
       {{ $scheme := (urls.Parse $link).Scheme }}
@@ -35,23 +39,24 @@
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
       {{ with $link }}
-      <a
-        class="inline-flex justify-left rounded-2xl bg-primary-900 p-4 text-base font-semibold text-white hover:bg-primary-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 active:text-white/70 mt-6 w-16" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-        <div>
-        {{ $block.content.primary_action.text | markdownify | emojify }}
-        {{ with $block.content.primary_action.icon }}
-          {{ partial "functions/get_icon" (dict "name" . "attributes" "style=\"height: 1em\" class='inline-block pl-2'") }}
-        {{ end }}
-      </div>
-      </a>
+        <a
+          class="inline-flex justify-left rounded-2xl bg-primary-900 p-4 text-base font-semibold text-white hover:bg-primary-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 active:text-white/70 mt-6 w-16"
+          href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+          <div>
+            {{ $block.content.primary_action.text | markdownify | emojify }}
+            {{ with $block.content.primary_action.icon }}
+              {{ partial "functions/get_icon" (dict "name" . "attributes" "style=\"height: 1em\" class='inline-block pl-2'") }}
+            {{ end }}
+          </div>
+        </a>
       {{ end }}
       <dl
         class="mt-10 grid grid-cols-2 gap-x-10 gap-y-6 sm:mt-16 sm:gap-x-10 sm:gap-y-10 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left">
         {{ range $idx, $item := $block.content.items }}
-        <div>
-          <dt class="font-mono text-sm text-primary-600">{{.name}}</dt>
-          <dd class="mt-0.5 text-2xl font-semibold tracking-tight text-primary-900">{{.description}}</dd>
-        </div>
+          <div>
+            <dt class="font-mono text-sm text-primary-600">{{ .name }}</dt>
+            <dd class="mt-0.5 text-2xl font-semibold tracking-tight text-primary-900">{{ .description }}</dd>
+          </div>
         {{ end }}
       </dl>
     </div>
