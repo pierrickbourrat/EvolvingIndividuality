@@ -51,18 +51,6 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-  - block: cta-image-paragraph
-    id: about
-    content:
-      items:
-        - title: Evolving Individuality 2024
-          text: MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113
-          
-          # Upload image to `assets/media/` and reference the filename here
-          image: executive conference centre.jpg
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: people
     id: speakers
     content:
@@ -86,6 +74,18 @@ sections:
 #        {style="padding-top: 2rem"}
 #
 #        {{< table path="schedule.csv" header="true" >}}
+  - block: cta-image-paragraph
+    id: about
+    content:
+      items:
+        - title: Evolving Individuality 2024
+          text: MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113
+          
+          # Upload image to `assets/media/` and reference the filename here
+          image: executive conference centre.jpg
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: logos
     content:
       title: "Sponsors"
