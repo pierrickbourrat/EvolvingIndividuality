@@ -23,8 +23,8 @@ sections:
   - block: hero-with-stats
     content:
       text: "![Logo](logo3.png)"
-      text: "Dec 2 - 4, 2024"
-      details: "MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113"
+      details: "Dec 2 - 4, 2024"
+      text_after: "test"
       primary_action:
         text: Register
         url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
