@@ -8,8 +8,8 @@
 {{ $mydate := $block.content.date | default "2000-01-01" }}
 {{ $formattedDate := dateFormat "2006-01-02T15:04:05.000Z" $mydate }}
 
-<div class="min-w-screen flex items-center justify-center px-5 py-5 bg-primary-400" x-data="countdownTimer()" x-init="start()" id="countdown" data-countdown-date="{{$formattedDate}}">
-  <div class="text-primary-900">
+<div class="min-w-screen flex items-center justify-center px-5 py-5 bg-primary-900" x-data="countdownTimer()" x-init="start()" id="countdown" data-countdown-date="{{$formattedDate}}">
+  <div class="text-primary-100">
     {{ with $block.content.title }}
     <h1 class="text-3xl text-center mb-3 font-extralight">{{ . | markdownify }}</h1>
     {{end}}
