@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+i_am_a_sponsor: true
 appearance:
-  i_am_a_sponsor: true
   mode: light
   color: blue
 
