@@ -51,7 +51,7 @@
         {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
         {{ $link = .RelPermalink }}
         {{ end }}
-        <div class="flex flex-col items-center text-center"> <!-- Centered content here -->
+        <div>
           <div class="group relative h-[17.5rem] transform overflow-hidden rounded-4xl">
             <div
               class="absolute bottom-6 left-0 right-4 top-0 rounded-4xl border transition duration-300 group-hover:scale-95 xl:right-6 border-primary-300"></div>
