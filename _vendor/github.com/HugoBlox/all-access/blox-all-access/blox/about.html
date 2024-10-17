@@ -1,13 +1,21 @@
-{{/* Hugo Blox: Supporters Section (without logos) */}}
+{{/* Hugo Blox: Supporters Section (without logos, with image) */}}
 {{/* Documentation: https://hugoblox.com/blocks/ */}}
 {{/* License: All Access Pass Required - https://hugoblox.com/sponsor/ */}}
 
 {{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
+{{ $image := $block.content.image | default "default-image.png" }} <!-- Set a default image if none is specified -->
 
 <section class="py-20 sm:py-32">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    
+    <!-- Image section above title -->
+    {{ with $image }}
+    <div class="flex justify-center">
+      <img src="{{ . | absURL }}" alt="Supporters Image" class="w-64 h-auto mb-8"> <!-- Medium-sized, centered image -->
+    </div>
+    {{ end }}
     
     {{ with $block.content.title }}
     <h2 class="mx-auto max-w-2xl text-center font-display text-4xl font-medium tracking-tighter text-primary-900 dark:text-primary-300 sm:text-5xl">
