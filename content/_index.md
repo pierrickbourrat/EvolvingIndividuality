@@ -51,8 +51,7 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-- block: logos
-    id: about
+  - block: logos
     content:
       title: "About"
       text: "Thanks to the following for making this event possible"
@@ -62,8 +61,8 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""     
-- block: people
+        css_style: ""
+  - block: people
     id: speakers
     content:
       title: Speakers
