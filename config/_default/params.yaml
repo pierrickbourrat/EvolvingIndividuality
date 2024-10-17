@@ -6,7 +6,7 @@
 # Appearance
 i_am_a_sponsor: true
 appearance:
-  mode: light
+  mode: system
   color: blue
 
 # SEO
