@@ -6,9 +6,9 @@ title: Adrian Stencel
 role: Jagiellonian University
 
 # Organizations/Affiliations
-#organizations:
-#  - name: Jagiellonian University
-#    url: ''
+organizations:
+  - name: 
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
