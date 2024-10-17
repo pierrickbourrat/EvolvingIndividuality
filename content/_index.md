@@ -51,7 +51,7 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-  - block: logos
+  - block: about
     content:
       title: "About"
       text: "Thanks to the following for making this event possible"
