@@ -23,8 +23,7 @@
 
 <div class="mx-auto container max-w-6xl">
 
-  <!-- Adjusted the grid structure and alignment for centering -->
-  <div class="mt-14 grid grid-cols-1 sm:grid-cols-2 gap-8 justify-items-center sm:mt-16 sm:gap-y-16 lg:mt-24">
+  <div class="mt-14 grid grid-cols-1 sm:grid-cols-2 gap-8 items-center justify-center sm:mt-16 sm:gap-y-16 lg:mt-24">
     {{ range $block.content.user_groups }}
     {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
 
@@ -42,7 +41,6 @@
     {{ $link = .RelPermalink }}
     {{ end }}
 
-    <!-- This container ensures images and text are aligned and centered -->
     <div class="flex flex-col items-center text-center">
       <div class="group relative h-[17.5rem] w-[17.5rem] transform overflow-hidden rounded-full">
         <div class="absolute inset-0 rounded-full border transition duration-300 group-hover:scale-95 border-primary-300"></div>
