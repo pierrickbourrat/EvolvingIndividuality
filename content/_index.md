@@ -74,7 +74,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       # Add the necessary classes to center the columns
-      css_class: "text-center grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-center"
+      css_class: "flex justify-center text-center"
 #  - block: markdown
 #    id: program
 #    content:
