@@ -59,7 +59,7 @@ sections:
           text: This conference seeks to bring together biologists and philosophers of biology
           
           # Upload image to `assets/media/` and reference the filename here
-          image: executive conference centre.jpg
+          image: Macquarie Photo.jpg
   - block: people
     id: speakers
     content:
