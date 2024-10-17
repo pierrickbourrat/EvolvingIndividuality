@@ -61,7 +61,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: Macquarie Photo.jpg
     design:
-      css_class: "bg-white dark:bg-gray-900"    
+      css_class: "bg-gray-100 dark:bg-gray-900"    
   - block: people
     id: speakers
     content:
