@@ -93,7 +93,7 @@ sections:
           
           # Upload image to `assets/media/` and reference the filename here
           image: executive conference centre.jpg
-          image: 
+          image: map.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -107,5 +107,5 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: "assets/media/map.png"
+        css_style: ""
 ---
