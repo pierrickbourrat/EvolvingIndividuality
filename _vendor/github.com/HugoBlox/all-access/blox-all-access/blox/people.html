@@ -78,12 +78,9 @@
             <a href="{{$person.Page.RelPermalink}}">{{.Title}}</a>
           </h3>
 
-          {{ if ((and $show_role .Params.role) | and .Params.organizations) }}
-          <p class="mt-1 text-base tracking-tight text-slate-500 dark:text-slate-200">{{.Params.role}}
-          |
-            {{ range first 1 $person.Params.organizations }}
-              {{ .name }}
-            {{ end }}
+          {{ if $show_role }}
+          <p class="mt-1 text-base tracking-tight text-slate-500 dark:text-slate-200">
+            {{ .Params.role }}
           </p>
           {{ end }}
 
@@ -104,7 +101,5 @@
       </div>
     </div>
   </div>
-
-
 
 </div>
