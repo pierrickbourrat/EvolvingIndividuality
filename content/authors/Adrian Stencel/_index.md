@@ -3,11 +3,11 @@
 title: Adrian Stencel
 
 # Role/position
-#role: Machine Learning Manager
+role: Jagiellonian University
 
 # Organizations/Affiliations
 organizations:
-  - name: Jagiellonian University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
