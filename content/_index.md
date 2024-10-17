@@ -61,11 +61,7 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-  - block: logos
-    content:
-      title: "About"
-      text: "Testing"
-- block: organisers
+  - block: organisers
     id: organisers
     content:
       title: Organisers
