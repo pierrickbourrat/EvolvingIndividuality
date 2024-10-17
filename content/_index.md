@@ -53,7 +53,7 @@ sections:
   #          brightness: 1.0
   - block: about
     content:
-      image: "assets/media/Macquarie Photo.jpg"
+      image: "Macquarie Photo.jpg"
       title: "About"
       text: "Thanks to the following for making this event possible"
       # Image path relative to assets/media/ folder
