@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Adrian Stencel
+title: Graham Thomas
 
 # Role/position
-role: Jagiellonian University
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
