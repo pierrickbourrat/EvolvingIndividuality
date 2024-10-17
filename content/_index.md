@@ -82,7 +82,6 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-      css_class: "bg-gray-100 dark:bg-gray-900"
 #  - block: markdown
 #    id: program
 #    content:
@@ -108,7 +107,7 @@ sections:
           image: map.png
     design:
       # Section background color (CSS class)
-      css_class: "bg-white dark:bg-gray-900"
+      css_class: "bg-gray-100 dark:bg-gray-900"
   - block: logos
     content:
       title: "Sponsors"
