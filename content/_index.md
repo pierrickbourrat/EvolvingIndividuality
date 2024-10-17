@@ -61,7 +61,7 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-  - block: people
+  - block: organisers
     id: organisers
     content:
       title: Organisers
@@ -71,10 +71,6 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-      spacing:
-        padding: [0, 0, 0, 0]
-      # Add the necessary classes to center the columns
-      css_class: "flex justify-center text-center"
 #  - block: markdown
 #    id: program
 #    content:
