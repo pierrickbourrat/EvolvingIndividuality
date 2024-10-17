@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+i_am_a_sponsor: true
 appearance:
-  i_am_a_sponsor: true
-  mode: light
+  mode: system
   color: blue
 
 # SEO
@@ -43,7 +43,7 @@ header:
       text: "Register"
       url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
     show_search: false
-    show_theme_chooser: false
+    show_theme_chooser: true
 
 # Site footer
 footer:
@@ -62,6 +62,7 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
+  
 # Extensions
 extensions:
   convertkit:
