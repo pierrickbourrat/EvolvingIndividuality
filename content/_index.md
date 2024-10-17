@@ -96,7 +96,7 @@ sections:
 #
 #        {{< table path="schedule.csv" header="true" >}}
   - block: cta-image-paragraph
-    id: about
+    id: location
     content:
       items:
         - title: Location
