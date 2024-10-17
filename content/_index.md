@@ -61,10 +61,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: Macquarie Photo.jpg
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""    
+      css_class: "bg-primary-100 dark:bg-primary-900"    
   - block: people
     id: speakers
     content:
