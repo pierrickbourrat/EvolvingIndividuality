@@ -51,11 +51,7 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-  - block: about
-    content:
-      title: "About"
-      text: "Thanks to the following for making this event possible"
-- block: people
+  - block: people
     id: speakers
     content:
       title: Speakers
@@ -65,7 +61,11 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-  - block: organisers
+  - block: logos
+    content:
+      title: "About"
+      text: "Testing"
+- block: organisers
     id: organisers
     content:
       title: Organisers
