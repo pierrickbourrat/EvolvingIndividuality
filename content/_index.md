@@ -61,6 +61,16 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
+  - block: people
+    id: organisers
+    content:
+      title: Organisers
+      text: ""
+      user_groups: ['Organisers']
+    design:
+      show_role: true
+      show_social: false
+      show_interests: false
 #  - block: markdown
 #    id: program
 #    content:
