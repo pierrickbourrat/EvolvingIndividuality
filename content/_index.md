@@ -56,7 +56,7 @@ sections:
     content:
       items:
         - title: About
-          text: This conference seeks to bring together biologists and philosophers of biology
+          text: This conference seeks to bring together biologists and philosophers of biology to discuss biological individuality from an evolutionary perspective, encompassing topics from the origins of life and complex organisms to the emergence of animal cognition.
           
           # Upload image to `assets/media/` and reference the filename here
           image: Macquarie Photo.jpg
