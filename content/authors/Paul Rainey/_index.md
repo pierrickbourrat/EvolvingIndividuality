@@ -3,11 +3,11 @@
 title: Paul Rainey
 
 # Role/position
-#role: Machine Learning Manager
+role: Max Planck Institute
 
 # Organizations/Affiliations
 organizations:
-  - name: Max Planck Institute
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -3,11 +3,11 @@
 title: Johannes Martens
 
 # Role/position
-#role: Machine Learning Manager
+role: Sorbonne Université
 
 # Organizations/Affiliations
 organizations:
-  - name: Sorbonne Université
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

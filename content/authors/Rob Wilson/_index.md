@@ -3,11 +3,11 @@
 title: Rob Wilson
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Western Australia
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Western Australia
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

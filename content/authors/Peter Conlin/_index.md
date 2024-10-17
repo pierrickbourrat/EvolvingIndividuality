@@ -3,11 +3,11 @@
 title: Peter Conlin
 
 # Role/position
-#role: Machine Learning Manager
+role: Georgia Institute of Technology
 
 # Organizations/Affiliations
 organizations:
-  - name: Georgia Institute of Technology
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

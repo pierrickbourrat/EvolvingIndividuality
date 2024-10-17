@@ -3,11 +3,11 @@
 title: Sylvain Charlat
 
 # Role/position
-#role: Machine Learning Manager
+role: CNRS, University Lyon
 
 # Organizations/Affiliations
 organizations:
-  - name: CNRS, University Lyon
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

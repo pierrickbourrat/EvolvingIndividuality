@@ -3,11 +3,11 @@
 title: Pierrick Bourrat
 
 # Role/position
-#role: Machine Learning Manager
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

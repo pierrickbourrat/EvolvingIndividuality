@@ -3,11 +3,11 @@
 title: Pamela Lyon
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Adelaide
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Adelaide
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

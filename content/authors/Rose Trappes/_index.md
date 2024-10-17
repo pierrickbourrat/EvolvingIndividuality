@@ -3,11 +3,11 @@
 title: Rose Trappes
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Exeter
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Exeter
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

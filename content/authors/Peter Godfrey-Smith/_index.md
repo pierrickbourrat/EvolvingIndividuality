@@ -3,11 +3,11 @@
 title: Peter Godfrey-Smith
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Sydney
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Sydney
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

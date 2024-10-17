@@ -3,7 +3,7 @@
 title: Andrew Black
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Adelaide
 
 # Organizations/Affiliations
 organizations:

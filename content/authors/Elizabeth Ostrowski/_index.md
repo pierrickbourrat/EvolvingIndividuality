@@ -3,11 +3,11 @@
 title: Elizabeth Ostrowski
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Auckland
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Auckland
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -3,11 +3,11 @@
 title: Renske Vroomans
 
 # Role/position
-#role: Machine Learning Manager
+role: University of Cambridge
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Cambridge
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -3,11 +3,11 @@
 title: Rutger Hermsen
 
 # Role/position
-#role: Machine Learning Manager
+role: Utrecht University
 
 # Organizations/Affiliations
 organizations:
-  - name: Utrecht University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
