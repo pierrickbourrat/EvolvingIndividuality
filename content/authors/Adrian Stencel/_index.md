@@ -3,7 +3,7 @@
 title: Adrian Stencel
 
 # Role/position
-role: Machine Learning Manager
+#role: Machine Learning Manager
 
 # Organizations/Affiliations
 organizations:
@@ -34,4 +34,4 @@ user_groups:
   - Committee
 ---
 
-To be updated.
+To be updated
