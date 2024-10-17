@@ -52,6 +52,7 @@ sections:
   #        filters:
   #          brightness: 1.0
   - block: logos
+    id: about
     content:
       title: "About"
       text: "Thanks to the following for making this event possible"
