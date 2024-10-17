@@ -62,6 +62,9 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
+# Let the user choose between light or dark mode?
+  show_theme_chooser: true
+  
 # Extensions
 extensions:
   convertkit:
