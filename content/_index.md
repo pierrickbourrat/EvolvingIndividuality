@@ -51,7 +51,17 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-  - block: people
+  - block: about
+    content:
+      title: "About"
+      text: "Thanks to the following for making this event possible"
+      # Image path relative to assets/media/ folder
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
+- block: people
     id: speakers
     content:
       title: Speakers
