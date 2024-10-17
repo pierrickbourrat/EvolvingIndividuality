@@ -61,7 +61,7 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-  - block: people
+  - block: organisers
     id: organisers
     content:
       title: Organisers
