@@ -56,6 +56,7 @@ sections:
       title: "About"
       text: "Thanks to the following for making this event possible"
       # Image path relative to assets/media/ folder
+      logo_folder: 'sponsors/'
     design:
       card:
         # Card background color (CSS class)
