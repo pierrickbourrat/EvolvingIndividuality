@@ -51,18 +51,15 @@ sections:
   #        filename: "assets/media/bkg.png"
   #        filters:
   #          brightness: 1.0
-  - block: about
+  - block: cta-image-paragraph
+    id: about
     content:
-      image: assets/media/Macquarie Photo.jpg
-      title: "About"
-      text: "Thanks to the following for making this event possible"
-      # Image path relative to assets/media/ folder
-      logo_folder: 'about/'
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      items:
+        - title: About
+          text: This conference seeks to bring together biologists and philosophers of biology
+          
+          # Upload image to `assets/media/` and reference the filename here
+          image: executive conference centre.jpg
   - block: people
     id: speakers
     content:
