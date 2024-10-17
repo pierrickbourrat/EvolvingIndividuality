@@ -60,10 +60,6 @@ sections:
           
           # Upload image to `assets/media/` and reference the filename here
           image: executive conference centre.jpg
-          image: map.png
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
 - block: people
     id: speakers
     content:
