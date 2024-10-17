@@ -82,6 +82,7 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
+      css_class: "bg-gray-100 dark:bg-gray-900"
 #  - block: markdown
 #    id: program
 #    content:
