@@ -3,7 +3,7 @@
 title: Pierrick Bourrat
 
 # Role/position
-role: Macquarie University
+role: Macquarie University, Australia
 
 # Organizations/Affiliations
 organizations:

@@ -3,7 +3,7 @@
 title: Peter Conlin
 
 # Role/position
-role: Georgia Institute of Technology
+role: Georgia Institute of Technology, USA
 
 # Organizations/Affiliations
 organizations:

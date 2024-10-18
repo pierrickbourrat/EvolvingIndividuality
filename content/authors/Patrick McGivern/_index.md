@@ -3,7 +3,7 @@
 title: Patrick McGivern
 
 # Role/position
-role: Georgetown University
+role: Wollongong University, Australia
 
 # Organizations/Affiliations
 organizations:

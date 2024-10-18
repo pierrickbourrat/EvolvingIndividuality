@@ -3,7 +3,7 @@
 title: Johannes Martens
 
 # Role/position
-role: Sorbonne Université
+role: Centre National de la Recherche Scientifique, France
 
 # Organizations/Affiliations
 organizations:

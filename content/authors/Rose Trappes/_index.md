@@ -3,7 +3,7 @@
 title: Rose Trappes
 
 # Role/position
-role: University of Exeter
+role: University of Bergen, Norway
 
 # Organizations/Affiliations
 organizations:

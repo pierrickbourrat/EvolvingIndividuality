@@ -3,7 +3,7 @@
 title: Adrian Stencel
 
 # Role/position
-role: Jagiellonian University
+role: Jagiellonian University, Poland
 
 # Organizations/Affiliations
 organizations:

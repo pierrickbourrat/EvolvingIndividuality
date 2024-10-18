@@ -3,7 +3,7 @@
 title: Paul Rainey
 
 # Role/position
-role: Max Planck Institute
+role: Max Planck Institute for Evolutionary Biology, Germany
 
 # Organizations/Affiliations
 organizations:

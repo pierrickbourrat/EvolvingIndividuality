@@ -3,7 +3,7 @@
 title: Philippe Huneman
 
 # Role/position
-role: University of Paris
+role: Centre National de la Recherche Scientifique, France
 
 # Organizations/Affiliations
 organizations:

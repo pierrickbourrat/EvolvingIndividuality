@@ -3,7 +3,7 @@
 title: Sylvain Charlat
 
 # Role/position
-role: CNRS, University Lyon
+role: University of Lyon, France
 
 # Organizations/Affiliations
 organizations:

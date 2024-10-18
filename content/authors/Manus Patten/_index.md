@@ -3,7 +3,7 @@
 title: Manus Patten
 
 # Role/position
-role: Georgetown University
+role: Georgetown University, USA
 
 # Organizations/Affiliations
 organizations:
