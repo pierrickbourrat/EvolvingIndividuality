@@ -3,7 +3,7 @@
 title: Elizabeth Ostrowski
 
 # Role/position
-role: University of Auckland
+role: University of Auckland, New Zealand
 
 # Organizations/Affiliations
 organizations:

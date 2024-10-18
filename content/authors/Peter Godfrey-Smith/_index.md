@@ -3,7 +3,7 @@
 title: Peter Godfrey-Smith
 
 # Role/position
-role: University of Sydney
+role: University of Sydney, Australia
 
 # Organizations/Affiliations
 organizations:

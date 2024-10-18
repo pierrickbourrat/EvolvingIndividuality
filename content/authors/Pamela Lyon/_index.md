@@ -3,7 +3,7 @@
 title: Pamela Lyon
 
 # Role/position
-role: University of Adelaide
+role: University of Adelaide, Australia
 
 # Organizations/Affiliations
 organizations:
