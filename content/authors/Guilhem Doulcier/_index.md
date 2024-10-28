@@ -1,52 +1,37 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Guilhem Doulcier
 
-# Name pronunciation (optional)
-name_pronunciation: 
+# Role/position
+role: Macquarie University, Australia
 
-# Full name (for SEO)
-first_name: Pierrick 
-last_name: Bourrat
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-#role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Macquarie University
-    url: https://researchers.mq.edu.au/en/persons/pierrick-bourrat
+  - name: 
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is based around stochastic modelling, mathematical epidemiology, evolution, probabilistic learning and Bayesian inference and Data Science.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-#profiles:
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
-#  - icon: brands/linkedin
-#    url: https://www.linkedin.com/
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Author's website URL
-#website: ""
+profiles:
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
+user_groups:
 #  - Speakers
-#  - Hosts
-#  - Committee
+  - Organisers
+  - Committee
 ---
 
-Test
+To be updated
