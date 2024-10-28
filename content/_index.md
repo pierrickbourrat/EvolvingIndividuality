@@ -27,7 +27,7 @@ sections:
       additional_text: "Macquarie University"
       primary_action:
         text: Register
-        url: mailto:graham.thomas@mq.edu.au?subject=Evolving%20Individuality%20conference%20registration
+        url: https://forms.office.com/r/MSd8cCWwqA
         icon: ticket
       items:
 #        - name: "Speakers"
