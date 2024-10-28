@@ -3,7 +3,7 @@
 title: Patrick McGivern
 
 # Role/position
-role: Wollongong University, Australia
+role: University of Wollongong, Australia
 
 # Organizations/Affiliations
 organizations:
