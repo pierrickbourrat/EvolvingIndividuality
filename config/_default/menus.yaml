@@ -28,34 +28,34 @@ footer:
     weight: 1
   - identifier: about
     name: About
-    weight: 1
+    weight: 2
   - parent: about
     name: About
-    url: /
-    weight: 1
+    url: /#about
+    weight: 2
   - identifier: speakers
     name: Speakers
-    weight: 1
+    weight: 3
   - parent: speakers
     name: Speakers
-    url: /
+    url: /#speakers
   - identifier: program
     name: Program
-    weight: 1
+    weight: 3
   - parent: program
     name: Program
-    url: /
-    weight: 1
+    url: /#program
+    weight: 4
   - identifier: location
     name: Location
-    weight: 1
+    weight: 4
   - parent: location
     name: Location
-    url: /
+    url: /#location
   - identifier: register
     name: Register
-    weight: 2
+    weight: 5
   - parent: register
     name: Register
     url: https://forms.office.com/r/MSd8cCWwqA
-    weight: 3
+    weight: 5
