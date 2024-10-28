@@ -22,7 +22,7 @@ footer:
   - identifier: home
     name: Home
     weight: 1
-  - parent: ""
+  - parent: home
     name: Home
     url: /
     weight: 1
