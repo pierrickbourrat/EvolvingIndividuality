@@ -29,17 +29,29 @@ footer:
   - identifier: about
     name: About
     weight: 1
+  - parent: about
+    name: About
+    url: /
+    weight: 1
+  - identifier: speakers
+    name: Speakers
+    weight: 1
   - parent: speakers
     name: Speakers
     url: /
-    weight: 1
   - identifier: program
     name: Program
+    weight: 1
+  - parent: program
+    name: Program
+    url: /
+    weight: 1
+  - identifier: location
+    name: Location
     weight: 1
   - parent: location
     name: Location
     url: /
-    weight: 1
   - identifier: register
     name: Register
     weight: 2
