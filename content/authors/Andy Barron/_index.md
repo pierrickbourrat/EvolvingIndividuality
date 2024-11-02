@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andy Baron
+title: Andy Barron
 
 # Role/position
 role: Macquarie University, Australia
