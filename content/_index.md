@@ -101,10 +101,11 @@ sections:
       items:
         - title: Location
           text: MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113
-          image: assets/media/executive conference centre.JPG
           
           # Upload image to `assets/media/` and reference the filename here
-          image: map.png
+          images: 
+            - map.png
+            - executive conference centre.JPG
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
