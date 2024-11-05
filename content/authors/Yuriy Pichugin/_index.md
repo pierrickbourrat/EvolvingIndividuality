@@ -3,7 +3,7 @@
 title: Yuriy Pichugin
 
 # Role/position
-role: ""
+role: "Max Planck Institute for Evolutionary Biology, Germany"
 
 # Organizations/Affiliations
 organizations:
