@@ -82,11 +82,11 @@ sections:
       show_role: true
       show_social: false
       show_interests: false
-#  - block: markdown
-#    id: program
-#    content:
-#      title: Program
-#      text: |
+  - block: markdown
+    id: program
+    content:
+      title: Program
+      text: "Coming soon"
 #        **DAY 1**
 #        {style="padding-top: 2rem"}
 #        {{< table path="schedule.csv" header="true" >}}
