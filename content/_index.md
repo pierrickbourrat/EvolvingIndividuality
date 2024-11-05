@@ -103,9 +103,7 @@ sections:
           text: MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113
           
           # Upload image to `assets/media/` and reference the filename here
-          images: 
-            - map.png
-            - Macquarie Photo.jpg
+          image: map.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
