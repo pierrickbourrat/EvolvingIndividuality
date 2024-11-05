@@ -105,7 +105,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           images: 
             - map.png
-            - executive conference centre.JPG
+            - Macquarie Photo.jpg
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
