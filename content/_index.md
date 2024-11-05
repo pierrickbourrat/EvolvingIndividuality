@@ -109,6 +109,14 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: location
+    id: location
+    content:
+    title: "Location"
+    text: "MGSM Hotel. 99 Talavera Rd, Macquarie Park NSW 2113"
+    images:
+      - map.png          # Primary image
+      - executive conference centre.jpg  # Additional image below the text
   - block: logos
     content:
       title: "Sponsors"
