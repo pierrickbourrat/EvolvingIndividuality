@@ -34,4 +34,6 @@ user_groups:
   - Committee
 ---
 
-To be updated.
+<h2 style="color: #050505; text-align: left;">Evolution of lifecycles in ecologically scaffolded populations</h2>
+
+Ecological scaffolding is the idea that particular ecological conditions can exogenously impose Darwinian-like properties on collectives, leading the collectives to participate in evolution by natural selection. Previous theoretical work on the evolution of multicellularity has show that a minimal model of this process can be created by assuming patchily distributed resources, dispersal between patches and a bottleneck created during the dispersal process. These models are, by design, limited in their scope to foreground these essential features. In this talk I will discuss how we are incorporating more ecology and notions of development into these models. This has allowed us to start asking questions about the evolution of lifecycles and to investigate the role of environmental feedback and competition in shaping these lifecycles.

@@ -34,4 +34,7 @@ user_groups:
   - Committee
 ---
 
-To be updated.
+<h2 style="color: #050505; text-align: left;">Cognition and the 'Major Transitions'</h2>
+
+I will try to work out how the Maynard Smith and Szathmáry “major transitions” in evolution, especially those involving individuality, relate to cognition, both minimal and less minimal.
+

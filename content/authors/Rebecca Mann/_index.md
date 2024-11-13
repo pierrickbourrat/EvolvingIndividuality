@@ -34,4 +34,6 @@ user_groups:
   - Committee
 ---
 
-To be updated.
+<h2 style="color: #050505; text-align: left;">How an Agential Account of Biological Individuality Can Come Apart from Concepts of the Organism</h2>
+
+This paper aims to connect the problem of biological individuality with the increasing interest in minimal accounts of biological agency. Generally, the concept of biological agency merely acts as another way to describe the organism and not as an individuality concept in its own right. This paper develops two main claims. (1) We should have an agential account of biological individuality in addition to an evolutionary and an organismal one. (2) This concept of agential individuality comes apart from concepts of the organism (and evolutionary individual), motivated by the case of eusocial insects, like the honey bee Apis mellifera.
