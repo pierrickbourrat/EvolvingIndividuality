@@ -34,4 +34,6 @@ user_groups:
   - Committee
 ---
 
-<h2 style="color: #050505; text-align: left;">TBA</h2>
+<h2 style="color: #050505; text-align: left;">Aggregative multicellularity in social amoebae: does it work?</h2>
+
+Major evolutionary transitions in complexity are built upon cooperation, but the benefits of cooperation must outweigh the risks. In this talk, I will discuss my group’s research using a well-known model system, the social amoeba Dictyostelium discoideum, which sits at the evolutionary transition between unicellularity and multicellularity. I will discuss the pros and cons of its unusual form of aggregative multicellularity and what we have learned from laboratory and population genomic studies about its ecology and evolution that can shed light on how transitions in individuality evolve.
