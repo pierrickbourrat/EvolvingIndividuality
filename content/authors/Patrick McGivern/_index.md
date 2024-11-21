@@ -34,4 +34,6 @@ user_groups:
   - Committee
 ---
 
-<h2 style="color: #050505; text-align: left;">TBA</h2>
+<h2 style="color: #050505; text-align: left;">Biological individuality and mesoscale structure</h2>
+
+In some ways, questions concerning individuality and major evolutionary transitions appear to be uniquely biological. However, many of the underlying concerns regarding the enduring status of collectives and the emergence of higher-level structures are very similar to questions found in other settings, including more general biological ones (such as questions concerning hierarchical structures in animal collectives) and in non-biological ones (such as questions concerning hierarchical structures in materials science). Here, I will try to clarify the extent to which questions concerning biological individuality (and transitions in individuality) involve uniquely biological concerns by comparing and contrasting them with questions concerning other forms of transition and individuality in natural systems, such as phase transitions in physical systems and the emergence of mesoscopic structures in multiscale systems.
