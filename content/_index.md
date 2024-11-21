@@ -95,6 +95,11 @@ sections:
         {style="padding-top: 2rem"}
 
         {{< table path="schedule2.csv" header="true" >}}
+
+        **Wednesday**
+        {style="padding-top: 2rem"}
+
+        {{< table path="schedule3.csv" header="true" >}}
   - block: cta-image-paragraph
     id: location
     content:
