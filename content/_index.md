@@ -89,7 +89,7 @@ sections:
       text: |
         **Monday**
         {style="padding-top: 2rem"}
-        {{< table path="schedule.csv" header="false" >}}
+        {{< table path="schedule1.csv" header="false" >}}
         
         **Tuesday**
         {style="padding-top: 2rem"}
