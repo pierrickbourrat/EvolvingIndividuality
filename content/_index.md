@@ -87,9 +87,9 @@ sections:
     content:
       title: Program
       text: |
-        **DAY 1**
+        **Monday**
         {style="padding-top: 2rem"}
-        {{< table path="schedule.csv" header="true" >}}
+        {{< table path="schedule1.csv" header="true" >}}
         
         **DAY 2**
         {style="padding-top: 2rem"}
