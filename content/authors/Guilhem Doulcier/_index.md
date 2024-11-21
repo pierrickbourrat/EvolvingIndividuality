@@ -29,9 +29,9 @@ profiles:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#  - Speakers
-  - Organisers
-  - Committee
+  - Speakers
+ # - Organisers
+ # - Committee
 ---
 
 <h2 style="color: #050505; text-align: left;">Ecological scaffolding of collective-level properties and the Goldilocks zone of ETIs</h2>
