@@ -89,17 +89,17 @@ sections:
       text: |
         **Monday**
         {style="padding-top: 2rem"}
-        {{< table path="schedule1.csv" header="true" >}}
+        {{< table path="schedule1.csv" header="false" >}}
         
         **Tuesday**
         {style="padding-top: 2rem"}
 
-        {{< table path="schedule2.csv" header="true" >}}
+        {{< table path="schedule2.csv" header="false" >}}
 
         **Wednesday**
         {style="padding-top: 2rem"}
 
-        {{< table path="schedule3.csv" header="true" >}}
+        {{< table path="schedule3.csv" header="false" >}}
   - block: cta-image-paragraph
     id: location
     content:
