@@ -34,6 +34,6 @@ user_groups:
   - Committee
 ---
 
-<h2 style="color: #050505; text-align: left;">Evolving individuality in insects</h2>
+<h2>Evolving individuality in insects</h2>
 
 Insects like bees clearly demonstrate individuality, agency and autonomy in their behaviour. By mammalian standards the insect brain is tiny, but such brains are certainly not simple.  I will discuss how advances in comparative neuroscience are giving us insight into how insect brains achieve autonomy, agency and awareness. This in turn helps refine arguments for why and how such traits evolved in animals.

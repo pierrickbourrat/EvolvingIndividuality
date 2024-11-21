@@ -34,7 +34,7 @@ user_groups:
   - Committee
 ---
 
-<h2 style="color: #050505; text-align: left;">Darwinian indivisibility, egalitarian transitions and the 3-layered modely</h2>
+<h2>Darwinian indivisibility, egalitarian transitions and the 3-layered modely</h2>
 
 In this presentation, I will address an important contrast between two (broad) construals of the notion of an evolution transition in individuality (ETI), itself rooted in a more fundamental opposition between two conceptions of a Darwinian individual. 
 As is well known, an ETI is usually represented as a process during which most of the selective forces happen to be “transferred” from the lower to the higher level, so that, at the end, the bulk of the adaptations end up being concentrated at the level of the collectives, and the entities at the lower level turn out to be largely “de-Darwinized” (Michod 1999; Godfrey-Smith 2009, 2013; Clarke 2016). On this account, an ETI is thus equivalent (at least at a first approximation) to the emergence of a distinctive population of “Darwinian indivisible units”—that is, a population of Darwinian individuals that are no longer made of (actualized) Darwinian individuals.

@@ -34,4 +34,4 @@ user_groups:
   - Committee
 ---
 
-<h2 style="color: #050505; text-align: left;">TBA</h2>
+<h2>TBA</h2>

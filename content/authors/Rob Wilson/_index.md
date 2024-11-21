@@ -34,7 +34,7 @@ user_groups:
   - Committee
 ---
 
-<h2 style="color: #050505; text-align: left;">Norming Human Individuality</h2>
+<h2>Norming Human Individuality</h2>
 
 In the literature on biological individuality and the major transitions, individuality is typically thought of as a state of achievement that involves an emerging “higher individual” coming to exercise control over antecedent, smaller individuals.  This literature is largely focused on diachronic questions about how individuality has changed, proliferated, or consolidated over time.  In general, and as a result, there is seldom the explicit application of any norms to either antecedent or consequent forms of individuality: the central accounts here are thought to be descriptive, rather than evaluative.  But such diachronic investigations must rely on questions about what specific forms of individuality amount to at any given time.  In human contexts, those forms are thoroughly norm-laden in ways that may well influence the diachronic issues in play.  Practices of norming have in fact been prevalent in thinking about human forms of individuality and their relationship to the socially cohesive wholes that they form. 
  
