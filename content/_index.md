@@ -91,12 +91,12 @@ sections:
         {style="padding-top: 2rem"}
         {{< table path="schedule.csv" header="false" >}}
         
-        **Tuesday*
+        **Tuesday**
         {style="padding-top: 2rem"}
 
         {{< table path="schedule2.csv" header="false" >}}
 
-        **Wednesday*
+        **Wednesday**
         {style="padding-top: 2rem"}
 
         {{< table path="schedule3.csv" header="false" >}}
