@@ -86,15 +86,15 @@ sections:
     id: program
     content:
       title: Program
-      text: "Coming soon"
-#        **DAY 1**
-#        {style="padding-top: 2rem"}
-#        {{< table path="schedule.csv" header="true" >}}
-#        
-#        **DAY 2**
-#        {style="padding-top: 2rem"}
-#
-#        {{< table path="schedule.csv" header="true" >}}
+      text: ""
+        **DAY 1**
+        {style="padding-top: 2rem"}
+        {{< table path="schedule.csv" header="true" >}}
+        
+        **DAY 2**
+        {style="padding-top: 2rem"}
+
+        {{< table path="schedule.csv" header="true" >}}
   - block: cta-image-paragraph
     id: location
     content:
