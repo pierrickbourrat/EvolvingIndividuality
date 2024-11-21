@@ -87,16 +87,16 @@ sections:
     content:
       title: Program
       text: |
-        **Monday**
+        **Monday 2 December**
         {style="padding-top: 2rem"}
         {{< table path="schedule1.csv" header="false" >}}
         
-        **Tuesday**
+        **Tuesday 3 December**
         {style="padding-top: 2rem"}
 
         {{< table path="schedule2.csv" header="false" >}}
 
-        **Wednesday**
+        **Wednesday 4 December**
         {style="padding-top: 2rem"}
 
         {{< table path="schedule3.csv" header="false" >}}
