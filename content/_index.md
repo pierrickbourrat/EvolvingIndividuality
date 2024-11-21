@@ -87,14 +87,19 @@ sections:
     content:
       title: Program
       text: |
-        **DAY 1**
+        **Monday**
         {style="padding-top: 2rem"}
-        {{< table path="schedule.csv" header="true" >}}
+        {{< table path="schedule.csv" header="false" >}}
         
-        **DAY 2**
+        **Tuesday*
         {style="padding-top: 2rem"}
 
-        {{< table path="schedule.csv" header="true" >}}
+        {{< table path="schedule2.csv" header="false" >}}
+
+        **Wednesday*
+        {style="padding-top: 2rem"}
+
+        {{< table path="schedule3.csv" header="false" >}}
   - block: cta-image-paragraph
     id: location
     content:
