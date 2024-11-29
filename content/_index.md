@@ -25,6 +25,10 @@ sections:
       text: "![Logo](logo3.png)"
       details: "Dec 2 - 4, 2024"
       additional_text: "Macquarie University"
+      primary_action:
+        text: Register (now closed)
+        url: https://forms.office.com/r/MSd8cCWwqA
+        icon: ticket
       items:
 #        - name: "Speakers"
 #          description: "22"
