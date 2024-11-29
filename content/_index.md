@@ -27,7 +27,7 @@ sections:
       additional_text: "Macquarie University"
       primary_action:
         text: Register (now closed)
-        url: https://forms.office.com/r/MSd8cCWwqA
+        url: ""
         icon: ticket
       items:
 #        - name: "Speakers"
